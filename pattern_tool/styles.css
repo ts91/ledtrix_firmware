@@ -1,0 +1,10 @@
+textarea {
+    display : block;
+    margin-bottom : 5px;
+    width : 570px;
+    height : 100px;
+}
+
+#btn-copy {
+    margin-left: 405px;
+}
